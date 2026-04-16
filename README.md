@@ -103,11 +103,7 @@ This is a beginner project, but suggestions and improvements are always welcome!
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the **MIT License**.
-
----
 
 ## 🙌 Acknowledgment
 
